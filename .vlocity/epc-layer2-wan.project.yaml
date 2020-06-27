@@ -10,6 +10,22 @@ VlocityDataPackKeys:
     - AttributeCategory/VEPC_ATTRIBUTE_CATEGORY_CONTACT_DETAILS
     - CalculationMatrix/L2WAN_AttributePricingMatrix
     - CalculationProcedure/L2WAN_AttributePricingProcedure
+    - ObjectClass/54d269-6e037e-dbbc1f-b3a8d4-255e84506
+    - ObjectClass/50341d-7e79db-b4311c-e82347-015cec627
+    - ObjectClass/34fa21-fefd63-ddf333-7aebbb-10982f100
+    - ObjectClass/46b1ccb6-2490-48bf-e205-7aeed987d785
+    - ObjectClass/40dd58-b88b93-4f6b2d-1e54b4-c6e23af20
+    - ObjectLayout/91c84d73-994d-5236-05b7-00955a326d8b
+    - ObjectLayout/77bc8ccc-7f80-ccc0-d2aa-77f9bcd5b73f
+    - ObjectLayout/58abf79c-8c12-4f71-236d-7d82625a8ea2
+    - ObjectLayout/2f275f7b-8ee4-4123-4703-87acee0a7b0b
+    - ObjectLayout/c24fedb1-ba21-a137-5c83-e1731bf39bbc
+    - ObjectLayout/5d70b1fc-0b8a-4743-538c-679bd32d2727
+    - ObjectLayout/165ced67-95c3-e2d3-3e9a-1fb3e43d1e90
+    - ObjectLayout/6cfdd324-3f53-634a-7b3c-a4474dfe34dc
+    - ObjectLayout/c55ecdf0-d65e-df2d-48e8-b2c3e63fd587
+    - ObjectLayout/425a678e-1f9d-003f-0823-dad6fb55e32c
+    - ObjectLayout/a918fa60-fd78-2f45-47d9-25e74dec485e
     - PriceList/VEPC_PRICELIST_B2B_PRICELIST
     - Product2/30cbb678-b802-b3d5-7720-9c33b13bb1ed
     - Product2/9cd99672-da54-e99c-314a-b68f0bf4a03f
@@ -23,6 +39,7 @@ VlocityDataPackKeys:
     - Product2/5a78e178-5ee6-ccdd-0856-c4362606434c
     - Product2/e1750c5b-ffa3-8038-49a4-6b0e5891d64e
     - Product2/ac5ef78c-afa6-279c-c4e3-ac81ba565c00
+    - VlocityPicklist/aad4af61-4deb-e078-875e-275286cab6b7
     - VlocityPicklist/975c7f1e-5a6a-92bb-5489-88ec6965af9b
     - VlocityPicklist/c86944c0-0af8-1416-c2bd-38855c706d9a
     - VlocityPicklist/d2c76dbd-b0c0-7460-8c56-20360ae81a3c
