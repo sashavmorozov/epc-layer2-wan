@@ -1,0 +1,154 @@
+[
+    {
+        "%vlocity_namespace%__AttributeCategoryId__c": {
+            "%vlocity_namespace%__Code__c": "VEPC_ATTRIBUTE_CATEGORY_CPE_DETAILS",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__AttributeCategory__c/VEPC_ATTRIBUTE_CATEGORY_CPE_DETAILS",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeCategory__c"
+        },
+        "%vlocity_namespace%__AttributeId__c": {
+            "%vlocity_namespace%__Code__c": "VEPC_ATTR_CPE_DEPLOYMENT_OPTION",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__Attribute__c/VEPC_ATTR_CPE_DEPLOYMENT_OPTION",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__Attribute__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "8dfc3be5-d174-58f8-a04a-1ce55a7bf69b",
+        "%vlocity_namespace%__IsActive__c": true,
+        "%vlocity_namespace%__ObjectClassId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "f5bb27-deafce-098b88-a32119-d338344f3",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__ObjectClass__c/f5bb27-deafce-098b88-a32119-d338344f3",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__ObjectClass__c"
+        },
+        "%vlocity_namespace%__ObjectType__c": "%vlocity_namespace%__ObjectClass__c",
+        "%vlocity_namespace%__SubClassId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "f5bb27-deafce-098b88-a32119-d338344f3",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__ObjectClass__c/f5bb27-deafce-098b88-a32119-d338344f3",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__ObjectClass__c"
+        },
+        "Name": "8dfc3be5-d174-58f8-a04a-1ce55a7bf69b",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__ObjectFieldAttribute__c",
+        "eos_Application_Version__c": "0.9",
+        "eos_Last_Executed_By__c": "amorozov@vlocity.com",
+        "eos_Spreadsheet_Name__c": "Vlocity.Bootstrap.L2 VPN Offering Model-20200624-2",
+        "eos_Spreadsheet_URL__c": "https://docs.google.com/a/vlocity.com/spreadsheets/d/1z2rx4bAfK4AkeANgA-DOaaqlemBG0gIzEkbHdxwwgkc/edit",
+        "eos_Transaction_ID__c": "0158e7ed-9f0b-44f4-a8e2-84c9e3d20c27",
+        "eos_Transaction_Timestamp__c": "27/06/2020@15:34:22GMT"
+    },
+    {
+        "%vlocity_namespace%__AttributeCategoryId__c": {
+            "%vlocity_namespace%__Code__c": "VEPC_ATTRIBUTE_CATEGORY_CPE_DETAILS",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__AttributeCategory__c/VEPC_ATTRIBUTE_CATEGORY_CPE_DETAILS",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeCategory__c"
+        },
+        "%vlocity_namespace%__AttributeId__c": {
+            "%vlocity_namespace%__Code__c": "VEPC_ATTR_CPE_ROLE",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__Attribute__c/VEPC_ATTR_CPE_ROLE",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__Attribute__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "5328cbba-8c02-c77e-71cb-5279769290a5",
+        "%vlocity_namespace%__IsActive__c": true,
+        "%vlocity_namespace%__ObjectClassId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "f5bb27-deafce-098b88-a32119-d338344f3",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__ObjectClass__c/f5bb27-deafce-098b88-a32119-d338344f3",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__ObjectClass__c"
+        },
+        "%vlocity_namespace%__ObjectType__c": "%vlocity_namespace%__ObjectClass__c",
+        "%vlocity_namespace%__SubClassId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "f5bb27-deafce-098b88-a32119-d338344f3",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__ObjectClass__c/f5bb27-deafce-098b88-a32119-d338344f3",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__ObjectClass__c"
+        },
+        "Name": "5328cbba-8c02-c77e-71cb-5279769290a5",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__ObjectFieldAttribute__c",
+        "eos_Application_Version__c": "0.9",
+        "eos_Last_Executed_By__c": "amorozov@vlocity.com",
+        "eos_Spreadsheet_Name__c": "Vlocity.Bootstrap.L2 VPN Offering Model-20200624-2",
+        "eos_Spreadsheet_URL__c": "https://docs.google.com/a/vlocity.com/spreadsheets/d/1z2rx4bAfK4AkeANgA-DOaaqlemBG0gIzEkbHdxwwgkc/edit",
+        "eos_Transaction_ID__c": "0158e7ed-9f0b-44f4-a8e2-84c9e3d20c27",
+        "eos_Transaction_Timestamp__c": "27/06/2020@15:34:22GMT"
+    },
+    {
+        "%vlocity_namespace%__AttributeCategoryId__c": {
+            "%vlocity_namespace%__Code__c": "VEPC_ATTRIBUTE_CATEGORY_CPE_DETAILS",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__AttributeCategory__c/VEPC_ATTRIBUTE_CATEGORY_CPE_DETAILS",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeCategory__c"
+        },
+        "%vlocity_namespace%__AttributeId__c": {
+            "%vlocity_namespace%__Code__c": "VEPC_ATTR_MANUFACTURER",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__Attribute__c/VEPC_ATTR_MANUFACTURER",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__Attribute__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "19ec7bfc-bcad-2888-d694-31f371be641e",
+        "%vlocity_namespace%__IsActive__c": true,
+        "%vlocity_namespace%__ObjectClassId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "f5bb27-deafce-098b88-a32119-d338344f3",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__ObjectClass__c/f5bb27-deafce-098b88-a32119-d338344f3",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__ObjectClass__c"
+        },
+        "%vlocity_namespace%__ObjectType__c": "%vlocity_namespace%__ObjectClass__c",
+        "%vlocity_namespace%__SubClassId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "f5bb27-deafce-098b88-a32119-d338344f3",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__ObjectClass__c/f5bb27-deafce-098b88-a32119-d338344f3",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__ObjectClass__c"
+        },
+        "Name": "19ec7bfc-bcad-2888-d694-31f371be641e",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__ObjectFieldAttribute__c",
+        "eos_Application_Version__c": "0.9",
+        "eos_Last_Executed_By__c": "amorozov@vlocity.com",
+        "eos_Spreadsheet_Name__c": "Vlocity.Bootstrap.L2 VPN Offering Model-20200624-2",
+        "eos_Spreadsheet_URL__c": "https://docs.google.com/a/vlocity.com/spreadsheets/d/1z2rx4bAfK4AkeANgA-DOaaqlemBG0gIzEkbHdxwwgkc/edit",
+        "eos_Transaction_ID__c": "0158e7ed-9f0b-44f4-a8e2-84c9e3d20c27",
+        "eos_Transaction_Timestamp__c": "27/06/2020@15:34:22GMT"
+    },
+    {
+        "%vlocity_namespace%__AttributeCategoryId__c": {
+            "%vlocity_namespace%__Code__c": "VEPC_ATTRIBUTE_CATEGORY_CPE_DETAILS",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__AttributeCategory__c/VEPC_ATTRIBUTE_CATEGORY_CPE_DETAILS",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeCategory__c"
+        },
+        "%vlocity_namespace%__AttributeId__c": {
+            "%vlocity_namespace%__Code__c": "VEPC_ATTR_SKU",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__Attribute__c/VEPC_ATTR_SKU",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__Attribute__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "740a39a2-9095-2ad4-f757-8dc5b02f5a76",
+        "%vlocity_namespace%__IsActive__c": true,
+        "%vlocity_namespace%__ObjectClassId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "f5bb27-deafce-098b88-a32119-d338344f3",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__ObjectClass__c/f5bb27-deafce-098b88-a32119-d338344f3",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__ObjectClass__c"
+        },
+        "%vlocity_namespace%__ObjectType__c": "%vlocity_namespace%__ObjectClass__c",
+        "%vlocity_namespace%__SubClassId__c": {
+            "%vlocity_namespace%__GlobalKey__c": "f5bb27-deafce-098b88-a32119-d338344f3",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__ObjectClass__c/f5bb27-deafce-098b88-a32119-d338344f3",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__ObjectClass__c"
+        },
+        "Name": "740a39a2-9095-2ad4-f757-8dc5b02f5a76",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__ObjectFieldAttribute__c",
+        "eos_Application_Version__c": "0.9",
+        "eos_Last_Executed_By__c": "amorozov@vlocity.com",
+        "eos_Spreadsheet_Name__c": "Vlocity.Bootstrap.L2 VPN Offering Model-20200624-2",
+        "eos_Spreadsheet_URL__c": "https://docs.google.com/a/vlocity.com/spreadsheets/d/1z2rx4bAfK4AkeANgA-DOaaqlemBG0gIzEkbHdxwwgkc/edit",
+        "eos_Transaction_ID__c": "0158e7ed-9f0b-44f4-a8e2-84c9e3d20c27",
+        "eos_Transaction_Timestamp__c": "27/06/2020@15:34:22GMT"
+    }
+]

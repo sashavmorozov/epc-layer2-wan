@@ -1,0 +1,9 @@
+{
+    "%vlocity_namespace%__CalculationMatrixVersion__c": "L2WAN_AttributePricingMatrix_Version.json",
+    "%vlocity_namespace%__Description__c": "",
+    "%vlocity_namespace%__GlobalKey__c": "10d08cb7-9fd3-c80b-1301-466d1cd6fc5e",
+    "Name": "L2WAN_AttributePricingMatrix",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrix__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__CalculationMatrix__c/L2WAN_AttributePricingMatrix"
+}
