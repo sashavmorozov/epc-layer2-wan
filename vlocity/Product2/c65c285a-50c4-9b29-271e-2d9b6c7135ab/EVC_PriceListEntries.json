@@ -48,7 +48,7 @@
     },
     {
         "%vlocity_namespace%__BasePriceListId__c": "",
-        "%vlocity_namespace%__DisplayText__c": "EUR0.00",
+        "%vlocity_namespace%__DisplayText__c": "0",
         "%vlocity_namespace%__EffectiveFromDate__c": "2019-01-01T00:00:00.000Z",
         "%vlocity_namespace%__EffectiveUntilDate__c": "2099-01-01T00:00:00.000Z",
         "%vlocity_namespace%__GlobalKey__c": "93d3deeb-84c7-f38a-bc14-103bb18a30b9",
@@ -90,7 +90,7 @@
         "eos_Last_Executed_By__c": "amorozov@vlocity.com",
         "eos_Spreadsheet_Name__c": "Vlocity.Bootstrap.L2 VPN Offering Model-20200624-2",
         "eos_Spreadsheet_URL__c": "https://docs.google.com/a/vlocity.com/spreadsheets/d/1z2rx4bAfK4AkeANgA-DOaaqlemBG0gIzEkbHdxwwgkc/edit",
-        "eos_Transaction_ID__c": "5484a35a-556e-414d-bc1b-67b584442915",
-        "eos_Transaction_Timestamp__c": "24/06/2020@16:15:31GMT"
+        "eos_Transaction_ID__c": "50f6560b-4430-43b9-98d7-ccd6392df247",
+        "eos_Transaction_Timestamp__c": "28/06/2020@08:12:09GMT"
     }
 ]

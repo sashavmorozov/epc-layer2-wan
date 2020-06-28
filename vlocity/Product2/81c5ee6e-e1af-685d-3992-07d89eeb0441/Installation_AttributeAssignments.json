@@ -65,7 +65,7 @@
         "%vlocity_namespace%__UIDisplayType__c": "",
         "%vlocity_namespace%__ValidValuesData__c": "",
         "%vlocity_namespace%__ValueDataType__c": "Text",
-        "%vlocity_namespace%__ValueDescription__c": "",
+        "%vlocity_namespace%__ValueDescription__c": "Site contact details",
         "%vlocity_namespace%__Value__c": "",
         "Name": "Contact E-Mail Address",
         "VlocityDataPackType": "SObject",
@@ -75,8 +75,8 @@
         "eos_Last_Executed_By__c": "amorozov@vlocity.com",
         "eos_Spreadsheet_Name__c": "Vlocity.Bootstrap.L2 VPN Offering Model-20200624-2",
         "eos_Spreadsheet_URL__c": "https://docs.google.com/a/vlocity.com/spreadsheets/d/1z2rx4bAfK4AkeANgA-DOaaqlemBG0gIzEkbHdxwwgkc/edit",
-        "eos_Transaction_ID__c": "726c557a-edea-4cfb-8f69-239e224bbfc3",
-        "eos_Transaction_Timestamp__c": "27/06/2020@17:15:24GMT"
+        "eos_Transaction_ID__c": "a34051b6-89a6-4b09-8300-e618ddcdeeca",
+        "eos_Transaction_Timestamp__c": "28/06/2020@08:48:22GMT"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
@@ -144,7 +144,7 @@
         "%vlocity_namespace%__UIDisplayType__c": "",
         "%vlocity_namespace%__ValidValuesData__c": "",
         "%vlocity_namespace%__ValueDataType__c": "Text",
-        "%vlocity_namespace%__ValueDescription__c": "",
+        "%vlocity_namespace%__ValueDescription__c": "Site contact details",
         "%vlocity_namespace%__Value__c": "",
         "Name": "Contact First Name",
         "VlocityDataPackType": "SObject",
@@ -154,8 +154,8 @@
         "eos_Last_Executed_By__c": "amorozov@vlocity.com",
         "eos_Spreadsheet_Name__c": "Vlocity.Bootstrap.L2 VPN Offering Model-20200624-2",
         "eos_Spreadsheet_URL__c": "https://docs.google.com/a/vlocity.com/spreadsheets/d/1z2rx4bAfK4AkeANgA-DOaaqlemBG0gIzEkbHdxwwgkc/edit",
-        "eos_Transaction_ID__c": "726c557a-edea-4cfb-8f69-239e224bbfc3",
-        "eos_Transaction_Timestamp__c": "27/06/2020@17:15:24GMT"
+        "eos_Transaction_ID__c": "a34051b6-89a6-4b09-8300-e618ddcdeeca",
+        "eos_Transaction_Timestamp__c": "28/06/2020@08:48:22GMT"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
@@ -223,7 +223,7 @@
         "%vlocity_namespace%__UIDisplayType__c": "",
         "%vlocity_namespace%__ValidValuesData__c": "",
         "%vlocity_namespace%__ValueDataType__c": "Text",
-        "%vlocity_namespace%__ValueDescription__c": "",
+        "%vlocity_namespace%__ValueDescription__c": "Site contact details",
         "%vlocity_namespace%__Value__c": "",
         "Name": "Contact Last Name",
         "VlocityDataPackType": "SObject",
@@ -233,8 +233,8 @@
         "eos_Last_Executed_By__c": "amorozov@vlocity.com",
         "eos_Spreadsheet_Name__c": "Vlocity.Bootstrap.L2 VPN Offering Model-20200624-2",
         "eos_Spreadsheet_URL__c": "https://docs.google.com/a/vlocity.com/spreadsheets/d/1z2rx4bAfK4AkeANgA-DOaaqlemBG0gIzEkbHdxwwgkc/edit",
-        "eos_Transaction_ID__c": "726c557a-edea-4cfb-8f69-239e224bbfc3",
-        "eos_Transaction_Timestamp__c": "27/06/2020@17:15:24GMT"
+        "eos_Transaction_ID__c": "a34051b6-89a6-4b09-8300-e618ddcdeeca",
+        "eos_Transaction_Timestamp__c": "28/06/2020@08:48:22GMT"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
@@ -302,7 +302,7 @@
         "%vlocity_namespace%__UIDisplayType__c": "",
         "%vlocity_namespace%__ValidValuesData__c": "",
         "%vlocity_namespace%__ValueDataType__c": "Text",
-        "%vlocity_namespace%__ValueDescription__c": "",
+        "%vlocity_namespace%__ValueDescription__c": "Site contact details",
         "%vlocity_namespace%__Value__c": "",
         "Name": "Contact Phone Number",
         "VlocityDataPackType": "SObject",
@@ -312,8 +312,8 @@
         "eos_Last_Executed_By__c": "amorozov@vlocity.com",
         "eos_Spreadsheet_Name__c": "Vlocity.Bootstrap.L2 VPN Offering Model-20200624-2",
         "eos_Spreadsheet_URL__c": "https://docs.google.com/a/vlocity.com/spreadsheets/d/1z2rx4bAfK4AkeANgA-DOaaqlemBG0gIzEkbHdxwwgkc/edit",
-        "eos_Transaction_ID__c": "726c557a-edea-4cfb-8f69-239e224bbfc3",
-        "eos_Transaction_Timestamp__c": "27/06/2020@17:15:24GMT"
+        "eos_Transaction_ID__c": "a34051b6-89a6-4b09-8300-e618ddcdeeca",
+        "eos_Transaction_Timestamp__c": "28/06/2020@08:48:22GMT"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
@@ -381,7 +381,7 @@
         "%vlocity_namespace%__UIDisplayType__c": "",
         "%vlocity_namespace%__ValidValuesData__c": "",
         "%vlocity_namespace%__ValueDataType__c": "Date",
-        "%vlocity_namespace%__ValueDescription__c": "",
+        "%vlocity_namespace%__ValueDescription__c": "Activity scheduled date/time",
         "%vlocity_namespace%__Value__c": "",
         "Name": "Appointment Date/Time",
         "VlocityDataPackType": "SObject",
@@ -391,8 +391,8 @@
         "eos_Last_Executed_By__c": "amorozov@vlocity.com",
         "eos_Spreadsheet_Name__c": "Vlocity.Bootstrap.L2 VPN Offering Model-20200624-2",
         "eos_Spreadsheet_URL__c": "https://docs.google.com/a/vlocity.com/spreadsheets/d/1z2rx4bAfK4AkeANgA-DOaaqlemBG0gIzEkbHdxwwgkc/edit",
-        "eos_Transaction_ID__c": "726c557a-edea-4cfb-8f69-239e224bbfc3",
-        "eos_Transaction_Timestamp__c": "27/06/2020@17:15:24GMT"
+        "eos_Transaction_ID__c": "a34051b6-89a6-4b09-8300-e618ddcdeeca",
+        "eos_Transaction_Timestamp__c": "28/06/2020@08:48:22GMT"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
@@ -482,7 +482,7 @@
             }
         ],
         "%vlocity_namespace%__ValueDataType__c": "Picklist",
-        "%vlocity_namespace%__ValueDescription__c": "",
+        "%vlocity_namespace%__ValueDescription__c": "Indicated the party responsible for paying conduit charges",
         "%vlocity_namespace%__Value__c": "Customer Responsibility",
         "Name": "Conduit Charges",
         "VlocityDataPackType": "SObject",
@@ -492,8 +492,8 @@
         "eos_Last_Executed_By__c": "amorozov@vlocity.com",
         "eos_Spreadsheet_Name__c": "Vlocity.Bootstrap.L2 VPN Offering Model-20200624-2",
         "eos_Spreadsheet_URL__c": "https://docs.google.com/a/vlocity.com/spreadsheets/d/1z2rx4bAfK4AkeANgA-DOaaqlemBG0gIzEkbHdxwwgkc/edit",
-        "eos_Transaction_ID__c": "726c557a-edea-4cfb-8f69-239e224bbfc3",
-        "eos_Transaction_Timestamp__c": "27/06/2020@17:15:24GMT"
+        "eos_Transaction_ID__c": "a34051b6-89a6-4b09-8300-e618ddcdeeca",
+        "eos_Transaction_Timestamp__c": "28/06/2020@08:48:22GMT"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
@@ -583,7 +583,7 @@
             }
         ],
         "%vlocity_namespace%__ValueDataType__c": "Picklist",
-        "%vlocity_namespace%__ValueDescription__c": "",
+        "%vlocity_namespace%__ValueDescription__c": "Indicated the party responsible for paying cross-connect charges",
         "%vlocity_namespace%__Value__c": "Customer Responsibility",
         "Name": "Cross-Connect Charges",
         "VlocityDataPackType": "SObject",
@@ -593,8 +593,8 @@
         "eos_Last_Executed_By__c": "amorozov@vlocity.com",
         "eos_Spreadsheet_Name__c": "Vlocity.Bootstrap.L2 VPN Offering Model-20200624-2",
         "eos_Spreadsheet_URL__c": "https://docs.google.com/a/vlocity.com/spreadsheets/d/1z2rx4bAfK4AkeANgA-DOaaqlemBG0gIzEkbHdxwwgkc/edit",
-        "eos_Transaction_ID__c": "726c557a-edea-4cfb-8f69-239e224bbfc3",
-        "eos_Transaction_Timestamp__c": "27/06/2020@17:15:24GMT"
+        "eos_Transaction_ID__c": "a34051b6-89a6-4b09-8300-e618ddcdeeca",
+        "eos_Transaction_Timestamp__c": "28/06/2020@08:48:22GMT"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
@@ -684,7 +684,7 @@
             }
         ],
         "%vlocity_namespace%__ValueDataType__c": "Picklist",
-        "%vlocity_namespace%__ValueDescription__c": "",
+        "%vlocity_namespace%__ValueDescription__c": "Indicated the party responsible for paying landlord location/building access fees",
         "%vlocity_namespace%__Value__c": "Customer Responsibility",
         "Name": "In Building Charges",
         "VlocityDataPackType": "SObject",
@@ -694,8 +694,8 @@
         "eos_Last_Executed_By__c": "amorozov@vlocity.com",
         "eos_Spreadsheet_Name__c": "Vlocity.Bootstrap.L2 VPN Offering Model-20200624-2",
         "eos_Spreadsheet_URL__c": "https://docs.google.com/a/vlocity.com/spreadsheets/d/1z2rx4bAfK4AkeANgA-DOaaqlemBG0gIzEkbHdxwwgkc/edit",
-        "eos_Transaction_ID__c": "726c557a-edea-4cfb-8f69-239e224bbfc3",
-        "eos_Transaction_Timestamp__c": "27/06/2020@17:15:24GMT"
+        "eos_Transaction_ID__c": "a34051b6-89a6-4b09-8300-e618ddcdeeca",
+        "eos_Transaction_Timestamp__c": "28/06/2020@08:48:22GMT"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
@@ -785,7 +785,7 @@
             }
         ],
         "%vlocity_namespace%__ValueDataType__c": "Picklist",
-        "%vlocity_namespace%__ValueDescription__c": "",
+        "%vlocity_namespace%__ValueDescription__c": "Indicated the party responsible for paying raiser charges",
         "%vlocity_namespace%__Value__c": "Customer Responsibility",
         "Name": "Raiser Charges",
         "VlocityDataPackType": "SObject",
@@ -795,8 +795,8 @@
         "eos_Last_Executed_By__c": "amorozov@vlocity.com",
         "eos_Spreadsheet_Name__c": "Vlocity.Bootstrap.L2 VPN Offering Model-20200624-2",
         "eos_Spreadsheet_URL__c": "https://docs.google.com/a/vlocity.com/spreadsheets/d/1z2rx4bAfK4AkeANgA-DOaaqlemBG0gIzEkbHdxwwgkc/edit",
-        "eos_Transaction_ID__c": "726c557a-edea-4cfb-8f69-239e224bbfc3",
-        "eos_Transaction_Timestamp__c": "27/06/2020@17:15:24GMT"
+        "eos_Transaction_ID__c": "a34051b6-89a6-4b09-8300-e618ddcdeeca",
+        "eos_Transaction_Timestamp__c": "28/06/2020@08:48:22GMT"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
@@ -864,7 +864,7 @@
         "%vlocity_namespace%__UIDisplayType__c": "",
         "%vlocity_namespace%__ValidValuesData__c": "",
         "%vlocity_namespace%__ValueDataType__c": "Text",
-        "%vlocity_namespace%__ValueDescription__c": "",
+        "%vlocity_namespace%__ValueDescription__c": "Other remarks",
         "%vlocity_namespace%__Value__c": "",
         "Name": "Remarks",
         "VlocityDataPackType": "SObject",
@@ -874,7 +874,7 @@
         "eos_Last_Executed_By__c": "amorozov@vlocity.com",
         "eos_Spreadsheet_Name__c": "Vlocity.Bootstrap.L2 VPN Offering Model-20200624-2",
         "eos_Spreadsheet_URL__c": "https://docs.google.com/a/vlocity.com/spreadsheets/d/1z2rx4bAfK4AkeANgA-DOaaqlemBG0gIzEkbHdxwwgkc/edit",
-        "eos_Transaction_ID__c": "726c557a-edea-4cfb-8f69-239e224bbfc3",
-        "eos_Transaction_Timestamp__c": "27/06/2020@17:15:24GMT"
+        "eos_Transaction_ID__c": "a34051b6-89a6-4b09-8300-e618ddcdeeca",
+        "eos_Transaction_Timestamp__c": "28/06/2020@08:48:22GMT"
     }
 ]

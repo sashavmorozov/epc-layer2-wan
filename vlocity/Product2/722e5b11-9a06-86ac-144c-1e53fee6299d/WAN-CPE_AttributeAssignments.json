@@ -9,7 +9,7 @@
             "VlocityLookupRecordSourceKey": "%vlocity_namespace%__AttributeCategory__c/VEPC_ATTRIBUTE_CATEGORY_CPE_DETAILS",
             "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeCategory__c"
         },
-        "%vlocity_namespace%__AttributeDisplayNameOverride__c": "",
+        "%vlocity_namespace%__AttributeDisplayNameOverride__c": "CPE Deployment Option",
         "%vlocity_namespace%__AttributeDisplaySequence__c": "60",
         "%vlocity_namespace%__AttributeId__c": {
             "%vlocity_namespace%__Code__c": "VEPC_ATTR_CPE_DEPLOYMENT_OPTION",
@@ -87,7 +87,7 @@
             }
         ],
         "%vlocity_namespace%__ValueDataType__c": "Picklist",
-        "%vlocity_namespace%__ValueDescription__c": "",
+        "%vlocity_namespace%__ValueDescription__c": "Indicates either a new CPE is required or an existing CPE can be re-used",
         "%vlocity_namespace%__Value__c": "",
         "Name": "CPE Deployment Option",
         "VlocityDataPackType": "SObject",
@@ -97,8 +97,8 @@
         "eos_Last_Executed_By__c": "amorozov@vlocity.com",
         "eos_Spreadsheet_Name__c": "Vlocity.Bootstrap.L2 VPN Offering Model-20200624-2",
         "eos_Spreadsheet_URL__c": "https://docs.google.com/a/vlocity.com/spreadsheets/d/1z2rx4bAfK4AkeANgA-DOaaqlemBG0gIzEkbHdxwwgkc/edit",
-        "eos_Transaction_ID__c": "726c557a-edea-4cfb-8f69-239e224bbfc3",
-        "eos_Transaction_Timestamp__c": "27/06/2020@17:15:24GMT"
+        "eos_Transaction_ID__c": "a34051b6-89a6-4b09-8300-e618ddcdeeca",
+        "eos_Transaction_Timestamp__c": "28/06/2020@08:48:22GMT"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
@@ -110,7 +110,7 @@
             "VlocityLookupRecordSourceKey": "%vlocity_namespace%__AttributeCategory__c/VEPC_ATTRIBUTE_CATEGORY_CPE_DETAILS",
             "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeCategory__c"
         },
-        "%vlocity_namespace%__AttributeDisplayNameOverride__c": "",
+        "%vlocity_namespace%__AttributeDisplayNameOverride__c": "CPE Role",
         "%vlocity_namespace%__AttributeDisplaySequence__c": "70",
         "%vlocity_namespace%__AttributeId__c": {
             "%vlocity_namespace%__Code__c": "VEPC_ATTR_CPE_ROLE",
@@ -188,7 +188,7 @@
             }
         ],
         "%vlocity_namespace%__ValueDataType__c": "Picklist",
-        "%vlocity_namespace%__ValueDescription__c": "",
+        "%vlocity_namespace%__ValueDescription__c": "Used to differentite the cases of UNI-N on a standalone CPE (typical) or a provider edge (PE)",
         "%vlocity_namespace%__Value__c": "",
         "Name": "CPE Role",
         "VlocityDataPackType": "SObject",
@@ -198,8 +198,8 @@
         "eos_Last_Executed_By__c": "amorozov@vlocity.com",
         "eos_Spreadsheet_Name__c": "Vlocity.Bootstrap.L2 VPN Offering Model-20200624-2",
         "eos_Spreadsheet_URL__c": "https://docs.google.com/a/vlocity.com/spreadsheets/d/1z2rx4bAfK4AkeANgA-DOaaqlemBG0gIzEkbHdxwwgkc/edit",
-        "eos_Transaction_ID__c": "726c557a-edea-4cfb-8f69-239e224bbfc3",
-        "eos_Transaction_Timestamp__c": "27/06/2020@17:15:24GMT"
+        "eos_Transaction_ID__c": "a34051b6-89a6-4b09-8300-e618ddcdeeca",
+        "eos_Transaction_Timestamp__c": "28/06/2020@08:48:22GMT"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
@@ -211,7 +211,7 @@
             "VlocityLookupRecordSourceKey": "%vlocity_namespace%__AttributeCategory__c/VEPC_ATTRIBUTE_CATEGORY_CPE_DETAILS",
             "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeCategory__c"
         },
-        "%vlocity_namespace%__AttributeDisplayNameOverride__c": "",
+        "%vlocity_namespace%__AttributeDisplayNameOverride__c": "Manufacturer",
         "%vlocity_namespace%__AttributeDisplaySequence__c": "80",
         "%vlocity_namespace%__AttributeId__c": {
             "%vlocity_namespace%__Code__c": "VEPC_ATTR_MANUFACTURER",
@@ -267,7 +267,7 @@
         "%vlocity_namespace%__UIDisplayType__c": "",
         "%vlocity_namespace%__ValidValuesData__c": "",
         "%vlocity_namespace%__ValueDataType__c": "Text",
-        "%vlocity_namespace%__ValueDescription__c": "",
+        "%vlocity_namespace%__ValueDescription__c": "CPE manufacturer",
         "%vlocity_namespace%__Value__c": "",
         "Name": "Manufacturer",
         "VlocityDataPackType": "SObject",
@@ -277,8 +277,8 @@
         "eos_Last_Executed_By__c": "amorozov@vlocity.com",
         "eos_Spreadsheet_Name__c": "Vlocity.Bootstrap.L2 VPN Offering Model-20200624-2",
         "eos_Spreadsheet_URL__c": "https://docs.google.com/a/vlocity.com/spreadsheets/d/1z2rx4bAfK4AkeANgA-DOaaqlemBG0gIzEkbHdxwwgkc/edit",
-        "eos_Transaction_ID__c": "726c557a-edea-4cfb-8f69-239e224bbfc3",
-        "eos_Transaction_Timestamp__c": "27/06/2020@17:15:24GMT"
+        "eos_Transaction_ID__c": "a34051b6-89a6-4b09-8300-e618ddcdeeca",
+        "eos_Transaction_Timestamp__c": "28/06/2020@08:48:22GMT"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
@@ -290,7 +290,7 @@
             "VlocityLookupRecordSourceKey": "%vlocity_namespace%__AttributeCategory__c/VEPC_ATTRIBUTE_CATEGORY_CPE_DETAILS",
             "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeCategory__c"
         },
-        "%vlocity_namespace%__AttributeDisplayNameOverride__c": "",
+        "%vlocity_namespace%__AttributeDisplayNameOverride__c": "SKU",
         "%vlocity_namespace%__AttributeDisplaySequence__c": "90",
         "%vlocity_namespace%__AttributeId__c": {
             "%vlocity_namespace%__Code__c": "VEPC_ATTR_SKU",
@@ -346,7 +346,7 @@
         "%vlocity_namespace%__UIDisplayType__c": "",
         "%vlocity_namespace%__ValidValuesData__c": "",
         "%vlocity_namespace%__ValueDataType__c": "Text",
-        "%vlocity_namespace%__ValueDescription__c": "",
+        "%vlocity_namespace%__ValueDescription__c": "CPE SKU",
         "%vlocity_namespace%__Value__c": "",
         "Name": "SKU",
         "VlocityDataPackType": "SObject",
@@ -356,7 +356,7 @@
         "eos_Last_Executed_By__c": "amorozov@vlocity.com",
         "eos_Spreadsheet_Name__c": "Vlocity.Bootstrap.L2 VPN Offering Model-20200624-2",
         "eos_Spreadsheet_URL__c": "https://docs.google.com/a/vlocity.com/spreadsheets/d/1z2rx4bAfK4AkeANgA-DOaaqlemBG0gIzEkbHdxwwgkc/edit",
-        "eos_Transaction_ID__c": "726c557a-edea-4cfb-8f69-239e224bbfc3",
-        "eos_Transaction_Timestamp__c": "27/06/2020@17:15:24GMT"
+        "eos_Transaction_ID__c": "a34051b6-89a6-4b09-8300-e618ddcdeeca",
+        "eos_Transaction_Timestamp__c": "28/06/2020@08:48:22GMT"
     }
 ]

@@ -9,7 +9,7 @@
             "VlocityLookupRecordSourceKey": "%vlocity_namespace%__AttributeCategory__c/VEPC_ATTRIBUTE_CATEGORY_SITE_DETAILS",
             "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeCategory__c"
         },
-        "%vlocity_namespace%__AttributeDisplayNameOverride__c": "",
+        "%vlocity_namespace%__AttributeDisplayNameOverride__c": "Detailed Address Information",
         "%vlocity_namespace%__AttributeDisplaySequence__c": "30",
         "%vlocity_namespace%__AttributeId__c": {
             "%vlocity_namespace%__Code__c": "VEPC_ATTR_DETAILED_ADDRESS_INFORMATION",
@@ -70,7 +70,7 @@
         "%vlocity_namespace%__UIDisplayType__c": "",
         "%vlocity_namespace%__ValidValuesData__c": "",
         "%vlocity_namespace%__ValueDataType__c": "Text",
-        "%vlocity_namespace%__ValueDescription__c": "",
+        "%vlocity_namespace%__ValueDescription__c": "Demarcation point detailed address information (e.g. a particular telco room, suite, rack cage, etc.)",
         "%vlocity_namespace%__Value__c": "",
         "Name": "Detailed Address Information",
         "VlocityDataPackType": "SObject",
@@ -80,7 +80,7 @@
         "eos_Last_Executed_By__c": "amorozov@vlocity.com",
         "eos_Spreadsheet_Name__c": "Vlocity.Bootstrap.L2 VPN Offering Model-20200624-2",
         "eos_Spreadsheet_URL__c": "https://docs.google.com/a/vlocity.com/spreadsheets/d/1z2rx4bAfK4AkeANgA-DOaaqlemBG0gIzEkbHdxwwgkc/edit",
-        "eos_Transaction_ID__c": "726c557a-edea-4cfb-8f69-239e224bbfc3",
-        "eos_Transaction_Timestamp__c": "27/06/2020@17:15:24GMT"
+        "eos_Transaction_ID__c": "a34051b6-89a6-4b09-8300-e618ddcdeeca",
+        "eos_Transaction_Timestamp__c": "28/06/2020@08:48:22GMT"
     }
 ]
